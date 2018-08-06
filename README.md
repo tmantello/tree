@@ -1,5 +1,4 @@
 # tree
-árvore binária
 
 console application que monta e exibe uma árvore binária ao usuário
 
